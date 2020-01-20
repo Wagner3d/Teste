@@ -16,7 +16,7 @@
                     <!-- Inicio do template do Form -->
                     <div class="card card-outline-secondary">
                         <div class="card-header">
-                            <h3 class="mb-0">Cadastrar Pessoa</h3>
+                            <h3 class="mb-0"><?php echo $pagecfg['viewState']; ?></h3>
                         </div>
                         <div class="card-body">
 
